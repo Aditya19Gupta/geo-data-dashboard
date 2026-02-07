@@ -139,7 +139,7 @@ geo-data-dashboard/
 
 The dashboard fetches data from:
 ```
-https://6986b1548bacd1d773eb8675.mockapi.io/api/geo-data
+https://6986b1548bacd1d773eb8675.mockapi.io/api/geo-data/get-all
 ```
 
 The API service (`src/lib/api.ts`) handles:
